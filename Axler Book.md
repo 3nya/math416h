@@ -2,9 +2,9 @@
 - [[Vector Spaces]]
 - [[Subspaces]] 
 	- Sum of subspaces
-	- Direct sum
+	- [[Direct Sum of Two Subspaces]]
 
 ## chapter 2
 - [[Span]]
-- [[Linear independence]]
+- [[Linear Independence]]
 - [[Basis]]

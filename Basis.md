@@ -1,4 +1,4 @@
-A basis of $V$ is a list of vectors that is [[Linear independence|linearly independent]] and [[Span|spans]] $V$.
+A basis of $V$ is a list of vectors that is [[Linear Independence|linearly independent]] and [[Span|spans]] $V$.
 
 
 ## Properties
@@ -9,5 +9,5 @@ $v = a_1v_1 + ... + a_nv_n$ for $a_1, ..., a_n \in \mathbb{F}$
 
 A [[span|spanning list]] in a vector space 
 
-Every [[Finite dimensional|finite dimensional]] vector space has a basis.
+Every [[Finite Dimensional|finite dimensional]] vector space has a basis.
 Being finite dimensional tells us that the vector space has some spanning list. 

@@ -13,7 +13,7 @@ There exists an element $0 \in V$ st $0 + v = v$ for all $v \in V$.
 Additive inverse 
 For every $v \in V$, there exists $u \in V$ st $v + u = 0$
 
-[[Additive Inverse is unique|The additive inverse is unique proof]]
+[[Additive Inverse is Unique|The additive inverse is unique proof]]
 
 Multiplicative identity
 There exists an element $1 \in V$ st $1 \cdot v = v$ for all $v \in V$.

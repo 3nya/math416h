@@ -10,7 +10,7 @@ The system of linear equations:
 - Is **inconsistent (no solutions)** if the RREF has a pivot in the last column.
 - Has a **unique solution** if RREF has a pivot in every column besides the last one/
 - Has **many solutions** if the last column and at least one more column in the RREF do not have pivots. 
-[[Every system of linear equations has either no sols...|Proof]]
+[[Systems of Linear Equations Cannot Have Finite Number of Solutions|Proof]]
 ### Additional terms
 - Zero row - A row of a [[Augmented Matrix|matrix]] where every entry is 0.
 - Leading one - The leftmost nonzero entry of any row that isn't a **zero row**. This leading one is called a **Pivot Position**.

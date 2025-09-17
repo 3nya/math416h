@@ -28,6 +28,6 @@ this also tells us that if $v_k$ is removed, the span of the list remains unchan
 
 
 ## Properties
-[[Length of linearly independent list|Length of linearly independent list <= length of spanning list]]
+[[Length of Linearly Independent List|Length of linearly independent list <= length of spanning list]]
 
 

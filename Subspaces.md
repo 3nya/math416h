@@ -33,4 +33,4 @@ $V_1 + ... + V_m$ is a direct sum if and only if the only way to write $0$ as a 
 
 Additionally:
 $U \oplus W \iff U \cap W = {0}$
-[[Direct sum of two subspaces|proof]]
+[[Direct Sum of Two Subspaces|proof]]
