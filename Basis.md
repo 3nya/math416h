@@ -1,4 +1,6 @@
 A basis of $V$ is a list of vectors that is [[Linear Independence|linearly independent]] and [[Span|spans]] $V$.
+[[Basis is Independent and Spans|proof]]
+
 
 
 ## Properties

@@ -21,6 +21,8 @@ $V_1 + ... + V_m = \{v_1 + ... + v_m : v_1 \in V_1, ... v_m \in V_m\}$
 
 [[Sum of Subspaces is the smallest containing subspace]]
 
+*not to be confused with [[Linear Combinations|linear combinations]], which is the list of vectors that can be made out of scaling the given vectors*
+
 ## Direct sums
 
 A special case of the sum of subspaces where each vector in $V_1 , ... , V_m$ can only be written in one way as a sum $v_1 + ... + v_m$ where each $v_k \in V_k$. 

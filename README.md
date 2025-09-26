@@ -8,3 +8,4 @@
 - [[Span]]
 - [[Linear Independence]]
 - [[Basis]]
+- [[Dimension]]
