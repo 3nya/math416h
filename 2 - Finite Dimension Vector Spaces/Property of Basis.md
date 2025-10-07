@@ -1,5 +1,5 @@
 
-A list of vectors $v_1, ... , v_n \in V$ is a [[basis]] $\iff$ every vector $\in V$ can be written uniquely in the form $u = a_1v_1 + ... + a_nv_n$ where $a_1,...,a_n \in \mathbb{F}$.
+A list of vectors $v_1, ... , v_n \in V$ is a [[Basis]] $\iff$ every vector $\in V$ can be written uniquely in the form $u = a_1v_1 + ... + a_nv_n$ where $a_1,...,a_n \in \mathbb{F}$.
 
 Suppose $v_1,...,v_n$ is a basis of $V$.
 
