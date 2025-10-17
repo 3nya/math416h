@@ -9,3 +9,9 @@
 - [[Linear Independence]]
 - [[Basis]]
 - [[Dimension]]
+
+[[Midterm 1 Topics]] ^^ everything above
+## chapter 3
+- [[Linear Maps]]
+- 
+- 
